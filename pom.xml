@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.user.registration.api</groupId>
 	<artifactId>UserRegistrationService</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0-RELEASE</version>
 	<name>UserRegistrationService</name>
 	<description>User Registration Service</description>
 	<properties>
