@@ -18,6 +18,7 @@ public class UserController {
 	
 	@PostMapping("/users")
 	public UserDTO createUser(@RequestBody UserDTO userDTO) {
+		int a=10;
 		return this.userService.createUser(userDTO);
 	}
 
