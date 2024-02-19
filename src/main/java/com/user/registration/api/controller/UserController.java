@@ -12,6 +12,10 @@ import com.user.registration.api.service.UserService;
 @RestController
 @RequestMapping("/registrations")
 public class UserController {
+//lask-102
+	private void m2(){
+		//logic
+	}
 	
 	@Autowired
 	private UserService userService;
